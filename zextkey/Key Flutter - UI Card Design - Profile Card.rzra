@@ -1,0 +1,17 @@
+
+
+
+                                        (=>|=============================|<=)
+                                        (=>Main Page|--------------------|<=)
+RZ_NLINE_ALL_RZ
+::====::COMMAND_LINE_01::====::
+RZ_DELAY_EQUAL_150_RZ
+
+RZ_NLINE_ALL_RZ
+
+rasel:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+
+RZ_NLINE_ALL_RZ
+
+
+<!Doc:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ html>
