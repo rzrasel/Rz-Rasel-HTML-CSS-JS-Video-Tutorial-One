@@ -30,16 +30,35 @@ lin:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:css/style.css:RZ_END_RZ
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_NLINE_ALL_RZ
-// GoTo Line Number: 7. end of line:RZ_SAVE_RZ
+// GoTo Line Number: 7. end of line, create css directory, style.css file:RZ_SAVE_RZ
 RZ_NLINE_ALL_RZ
 RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
 RZ_NLINE_ALL_RZ
 start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
-                                        (=>|----Call buttons(title) method----|<=)
+                                        (=>|----Create Body Section----|<=)
 RZ_NLINE_ALL_RZ
+RZ_DOWN_RZ
+bod:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
+div.card:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
+div.card-header:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
+\n:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
+                                        (=>|----GOTO COMMAND----|<=)
+RZ_NLINE_ALL_RZ
+end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+RZ_NLINE_ALL_RZ
+// GoTo Line Number: 12. end of line, create images directory, place profile.png file:RZ_SAVE_RZ
+RZ_NLINE_ALL_RZ
+RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
+RZ_NLINE_ALL_RZ
+start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
+                                        (=>|----Set profile image----|<=)
+RZ_NLINE_ALL_RZ
+img:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:images/profile.png:RZ_TAB_RZ:Rz Rasel:RZ_END_RZ
+div.cover:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
+div.menu:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ
 
 
 RZ_NLINE_ALL_RZ
