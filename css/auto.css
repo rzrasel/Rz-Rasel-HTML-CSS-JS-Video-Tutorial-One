@@ -11,3 +11,10 @@
 body {
     background: #9b59b6;
 }
+
+.card {
+    width: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
