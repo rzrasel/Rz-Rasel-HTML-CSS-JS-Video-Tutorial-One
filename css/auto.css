@@ -131,3 +131,18 @@
     .left-section .btn-follow:hover {
         background: #8e44ad;
     }
+    
+    .right-section {
+        overflow: hidden;
+        float: right;
+        text-align: right;
+    }
+    
+    .item {
+        margin: 6px 0px;
+    }
+    
+    .num {
+        display: block;
+        font-size: 30px;
+    }
