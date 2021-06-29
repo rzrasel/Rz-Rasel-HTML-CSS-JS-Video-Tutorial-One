@@ -96,3 +96,23 @@
         display: block;
         font-size: 36px;
     }
+    
+    .container {
+        padding: 20px;
+        overflow: hidden;
+    }
+    
+    .left-section {
+        width: 260px;
+        overflow: hidden;
+        float: left;
+    }
+    
+    .left-section h3 {
+        color: #9b59b6;
+    }
+    
+    .left-section p {
+        margin: 30px 0px;
+        text-align: justify;
+    }
