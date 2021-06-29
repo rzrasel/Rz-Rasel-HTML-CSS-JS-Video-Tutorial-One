@@ -65,6 +65,12 @@
         display: none;
     }
     
+    .card-header .menu ul li {
+        float: left;
+        width: 30px;
+        text-align: center;
+    }
+    
     .card-header .name {
         position: absolute;
         bottom: 20px;
