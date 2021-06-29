@@ -58,6 +58,13 @@
         font-size: 32px;
     }
     
+    .card-header .menu ul {
+        background: #333333b3;
+        padding: 6px 6px;
+        margin: 0px 14px;
+        display: none;
+    }
+    
     .card-header .name {
         position: absolute;
         bottom: 20px;
