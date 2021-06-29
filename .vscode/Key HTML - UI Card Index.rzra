@@ -49,7 +49,7 @@ span.last:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Mate:RZ_END_RZ
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_NLINE_ALL_RZ
-// GoTo Line Number: 21. end of line, for return again, goto style.css file line: 1:RZ_SAVE_RZ
+// GoTo Line Number: 21. end of line,(index.html) for return again, goto (style.css) file line: 1:RZ_SAVE_RZ
 RZ_NLINE_ALL_RZ
 RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
 RZ_NLINE_ALL_RZ
@@ -95,7 +95,7 @@ hei:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:100%:RZ_DOWN_RZ:RZ_END_RZ:RZ_SAVE
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_NLINE_ALL_RZ
-// GoTo Line Number: 2. end of line, open "ionic.io" from google ~ open v2 ~ copy cdn url:RZ_SAVE_RZ
+// GoTo Line Number: 2. end of line,(style.css) open "ionic.io" from google ~ open v2 ~ copy cdn url:RZ_SAVE_RZ
 RZ_NLINE_ALL_RZ
 RZ_DELAY_DASH_55000_RZ:RZ_DELAY_EQUAL_150_RZ
 RZ_NLINE_ALL_RZ
@@ -109,7 +109,7 @@ RZ_NLINE_ALL_RZ
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_NLINE_ALL_RZ
-// GoTo Line Number: 17. end of line, index.html file, delete comment:RZ_SAVE_RZ
+// GoTo Line Number: 17. end of line, (index.html) file, delete comment:RZ_SAVE_RZ
 RZ_NLINE_ALL_RZ
 RZ_DELAY_DASH_40000_RZ:RZ_DELAY_EQUAL_150_RZ
 RZ_NLINE_ALL_RZ
@@ -123,7 +123,7 @@ span.menu_icon:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:RZ_END_RZ
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_NLINE_ALL_RZ
-// GoTo ionicons~search by menu~paste in this line (index.html)~goto style.css end of line:RZ_SAVE_RZ
+// GoTo ionicons~search by menu~paste in this line (index.html)~GoTo (style.css) end of line:RZ_SAVE_RZ
 RZ_NLINE_ALL_RZ
 RZ_DELAY_DASH_50000_RZ:RZ_DELAY_EQUAL_150_RZ
 RZ_NLINE_ALL_RZ
@@ -159,7 +159,7 @@ fon-si:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:36px:RZ_DOWN_RZ:RZ_END_RZ:RZ_S
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_NLINE_ALL_RZ
-// GoTo Line Number: 16. end of line, index.html:RZ_SAVE_RZ
+// GoTo Line Number: 16. end of line, (index.html):RZ_SAVE_RZ
 RZ_NLINE_ALL_RZ
 RZ_DELAY_DASH_30000_RZ:RZ_DELAY_EQUAL_150_RZ
 RZ_NLINE_ALL_RZ
@@ -174,7 +174,7 @@ ul>li>a>i.facebook:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:#:RZ_END_RZ
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_NLINE_ALL_RZ
-// copy twice then ionicons~search by facebook+twitter+instagram~paste in this line (index.html)~GoTo Line Number: -. end of line, .card-header .menu span - end of }:RZ_SAVE_RZ
+// copy twice then ionicons~search by facebook+twitter+instagram~paste in this line (index.html)~GoTo Line Number: (style.css). end of line, .card-header .menu span - end of }:RZ_SAVE_RZ
 RZ_NLINE_ALL_RZ
 RZ_DELAY_DASH_95000_RZ:RZ_DELAY_EQUAL_150_RZ
 RZ_NLINE_ALL_RZ
@@ -199,7 +199,7 @@ dis:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:bl:RZ_DELAY_DASH_400_ENTER_DELAY_
 RZ_NLINE_ALL_RZ
 end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 RZ_NLINE_ALL_RZ
-// GoTo Line Number: 28. end of line, index.html:RZ_SAVE_RZ
+// GoTo Line Number: 28. end of line, (index.html):RZ_SAVE_RZ
 RZ_NLINE_ALL_RZ
 RZ_DELAY_DASH_30000_RZ:RZ_DELAY_EQUAL_150_RZ
 RZ_NLINE_ALL_RZ
@@ -212,6 +212,15 @@ div.container>div.left-section>h3:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Abo
 p:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:Hi! I am Rashed - Uz - Zaman(Rz Rasel), Badge Mate is my youtube channel.:RZ_END_RZ
 a.btn-follow:RZ_DELAY_DASH_400_ENTER_DELAY_EQUAL_150_RZ:#:RZ_TAB_RZ:Follow Me:RZ_END_RZ:RZ_SAVE_RZ
 
+                                        (=>|----GOTO COMMAND----|<=)
+RZ_NLINE_ALL_RZ
+end:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
+RZ_NLINE_ALL_RZ
+// GoTo Line Number: -. end of line, (style.css):RZ_SAVE_RZ
+RZ_NLINE_ALL_RZ
+RZ_DELAY_DASH_30000_RZ:RZ_DELAY_EQUAL_150_RZ
+RZ_NLINE_ALL_RZ
+start:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ:RZ_BACKSPACE_RZ
 
 
 RZ_NLINE_ALL_RZ
