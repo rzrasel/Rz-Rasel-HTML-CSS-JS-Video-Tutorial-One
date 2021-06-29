@@ -116,3 +116,14 @@
         margin: 30px 0px;
         text-align: justify;
     }
+    
+    .left-section .btn-follow {
+        background: #9b59b6;
+        color: #ffffff;
+        text-align: center;
+        border-radius: 12px;
+        display: block;
+        padding: 8px 0px;
+        width: 100%;
+        transition: 0.2s all;
+    }
