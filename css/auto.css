@@ -127,3 +127,7 @@
         width: 100%;
         transition: 0.2s all;
     }
+    
+    .left-section .btn-follow:hover {
+        background: #8e44ad;
+    }
