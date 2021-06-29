@@ -13,6 +13,4 @@ git pull
 git push --all
 ```
 
-ReverseYT
-mS_mA
-xrl97a
+RYT mS_mA{@}xrl97a
