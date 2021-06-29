@@ -71,6 +71,11 @@
         text-align: center;
     }
     
+    .card-header .menu ul li a i {
+        color: #ffffff;
+        display: block;
+    }
+    
     .card-header .name {
         position: absolute;
         bottom: 20px;
