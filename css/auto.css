@@ -54,6 +54,10 @@
         cursor: pointer;
     }
     
+    .card-header .menu span {
+        font-size: 32px;
+    }
+    
     .card-header .name {
         position: absolute;
         bottom: 20px;
