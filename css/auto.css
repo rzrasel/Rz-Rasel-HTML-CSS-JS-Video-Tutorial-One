@@ -76,6 +76,10 @@
         display: block;
     }
     
+    .card-header .menu:hover>ul {
+        display: block;
+    }
+    
     .card-header .name {
         position: absolute;
         bottom: 20px;
