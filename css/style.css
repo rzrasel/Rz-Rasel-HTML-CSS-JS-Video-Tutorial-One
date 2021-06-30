@@ -7,7 +7,7 @@
   text-decoration: none;
 }
 body {
-  background: #9b59b6;
+  background: #5C782B;
 }
 .card {
   width: 400px;
@@ -29,7 +29,7 @@ body {
   height: 100%;
 }
 .card-header .cover {
-  background: #9b59b6b3;
+  background: #5C782BB3;
   position: absolute;
   top: 0px;
   width: 100%;
@@ -67,7 +67,7 @@ body {
   display: block;
 }
 .card-header .menu ul li a:hover i {
-  color: #8e44ad;
+  color: #ACBD53;
 }
 .card-header .name {
   position: absolute;
@@ -94,7 +94,7 @@ body {
   float: left;
 }
 .left-section h3 {
-  color: #9b59b6;
+  color: #5C782B;
 }
 .left-section p {
   margin: 30px 0px;
@@ -102,7 +102,7 @@ body {
 }
 .left-section .btn-follow {
   width: 100%;
-  background: #9b59b6;
+  background: #5C782B;
   border-radius: 12px;
   color: #ffffff;
   text-align: center;
@@ -111,7 +111,7 @@ body {
   transition: 0.2s all;
 }
 .left-section .btn-follow:hover {
-  background: #8e44ad;
+  background: #284408;
 }
 .right-section {
   overflow: hidden;
